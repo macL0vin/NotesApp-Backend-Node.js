@@ -1,0 +1,14 @@
+{
+	"note1": {
+		"note" : "Take out trash tomorrow",
+		"id": 1
+	},
+	"note2": {
+		"note" : "Do the Math homework",
+		"id": 2
+	},
+	"note3": {
+		"note" : "Go for groceries",
+		"id": 3
+	}
+}
